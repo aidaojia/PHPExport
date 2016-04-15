@@ -5,7 +5,7 @@
  * Date: 16/4/15
  * Time: 下午4:18
  */
-namespace Aidaojia\PHPExport;
+namespace Aidaojia\PHPExport\;
 
 class PHPExport
 {
