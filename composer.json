@@ -1,0 +1,21 @@
+{
+    "name": "aidaojia/phpexport",
+    "description": "php export lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zuoluo",
+            "email": "zuoluo@aidaojia.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "phpoffice/phpexcel": "1.8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aidaojia\\PHPExport": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
